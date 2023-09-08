@@ -1,1 +1,1 @@
-# all-js-programs week wise
+# All-JS-programs week wise
